@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "d5tRoXthikDgclQvmNkG8V0fTdt+U4qeazMedUaslR2FZ1ZJFG8+k3+b8n4HUf7USSeRLGns2V8b5f4tn3kj6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\Exam-Preparation-1-Resources\\Resources\\01-String-Rotator-Resources\\StringResources\\TestApp\\TestApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

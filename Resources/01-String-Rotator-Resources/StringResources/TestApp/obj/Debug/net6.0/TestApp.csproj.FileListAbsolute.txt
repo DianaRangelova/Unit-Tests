@@ -1,0 +1,22 @@
+C:\Users\PC\Desktop\QA Fundamentals\Programming Advanced for QA\16. Exam Preparation 1\Exam-Preparation-1-Resources\Resources\01-String-Rotator-Resources\StringResources\TestApp\bin\Debug\net6.0\TestApp.deps.json
+C:\Users\PC\Desktop\QA Fundamentals\Programming Advanced for QA\16. Exam Preparation 1\Exam-Preparation-1-Resources\Resources\01-String-Rotator-Resources\StringResources\TestApp\bin\Debug\net6.0\TestApp.dll
+C:\Users\PC\Desktop\QA Fundamentals\Programming Advanced for QA\16. Exam Preparation 1\Exam-Preparation-1-Resources\Resources\01-String-Rotator-Resources\StringResources\TestApp\bin\Debug\net6.0\TestApp.pdb
+C:\Users\PC\Desktop\QA Fundamentals\Programming Advanced for QA\16. Exam Preparation 1\Exam-Preparation-1-Resources\Resources\01-String-Rotator-Resources\StringResources\TestApp\obj\Debug\net6.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\QA Fundamentals\Programming Advanced for QA\16. Exam Preparation 1\Exam-Preparation-1-Resources\Resources\01-String-Rotator-Resources\StringResources\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\QA Fundamentals\Programming Advanced for QA\16. Exam Preparation 1\Exam-Preparation-1-Resources\Resources\01-String-Rotator-Resources\StringResources\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfo.cs
+C:\Users\PC\Desktop\QA Fundamentals\Programming Advanced for QA\16. Exam Preparation 1\Exam-Preparation-1-Resources\Resources\01-String-Rotator-Resources\StringResources\TestApp\obj\Debug\net6.0\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\QA Fundamentals\Programming Advanced for QA\16. Exam Preparation 1\Exam-Preparation-1-Resources\Resources\01-String-Rotator-Resources\StringResources\TestApp\obj\Debug\net6.0\TestApp.dll
+C:\Users\PC\Desktop\QA Fundamentals\Programming Advanced for QA\16. Exam Preparation 1\Exam-Preparation-1-Resources\Resources\01-String-Rotator-Resources\StringResources\TestApp\obj\Debug\net6.0\refint\TestApp.dll
+C:\Users\PC\Desktop\QA Fundamentals\Programming Advanced for QA\16. Exam Preparation 1\Exam-Preparation-1-Resources\Resources\01-String-Rotator-Resources\StringResources\TestApp\obj\Debug\net6.0\TestApp.pdb
+C:\Users\PC\Desktop\QA Fundamentals\Programming Advanced for QA\16. Exam Preparation 1\Exam-Preparation-1-Resources\Resources\01-String-Rotator-Resources\StringResources\TestApp\obj\Debug\net6.0\ref\TestApp.dll
+C:\Users\PC\Desktop\Exam-Preparation-1-Resources\Resources\01-String-Rotator-Resources\StringResources\TestApp\bin\Debug\net6.0\TestApp.deps.json
+C:\Users\PC\Desktop\Exam-Preparation-1-Resources\Resources\01-String-Rotator-Resources\StringResources\TestApp\bin\Debug\net6.0\TestApp.dll
+C:\Users\PC\Desktop\Exam-Preparation-1-Resources\Resources\01-String-Rotator-Resources\StringResources\TestApp\bin\Debug\net6.0\TestApp.pdb
+C:\Users\PC\Desktop\Exam-Preparation-1-Resources\Resources\01-String-Rotator-Resources\StringResources\TestApp\obj\Debug\net6.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Exam-Preparation-1-Resources\Resources\01-String-Rotator-Resources\StringResources\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Exam-Preparation-1-Resources\Resources\01-String-Rotator-Resources\StringResources\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfo.cs
+C:\Users\PC\Desktop\Exam-Preparation-1-Resources\Resources\01-String-Rotator-Resources\StringResources\TestApp\obj\Debug\net6.0\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Exam-Preparation-1-Resources\Resources\01-String-Rotator-Resources\StringResources\TestApp\obj\Debug\net6.0\TestApp.dll
+C:\Users\PC\Desktop\Exam-Preparation-1-Resources\Resources\01-String-Rotator-Resources\StringResources\TestApp\obj\Debug\net6.0\refint\TestApp.dll
+C:\Users\PC\Desktop\Exam-Preparation-1-Resources\Resources\01-String-Rotator-Resources\StringResources\TestApp\obj\Debug\net6.0\TestApp.pdb
+C:\Users\PC\Desktop\Exam-Preparation-1-Resources\Resources\01-String-Rotator-Resources\StringResources\TestApp\obj\Debug\net6.0\ref\TestApp.dll
