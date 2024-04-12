@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wh4TDJMDgwgR7/EPhlA1vF387l2ALZp5dk9rUKzk7qSkiozvyLEdkJHt+3tZYRsGfq/3sZg31YAsDMmJAZ5ohg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\Exam-Preparation-3-Resources\\Exam-Preparation-3-Resources\\02-Grades-Resources\\TestApp\\TestApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
