@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lcv6bjauxBwyw3mcQF61W4qLb2EiNvddMXeA/q048lv8DiCueTpuuU9rnkQAOD4NALlyyhsj3cTYbYNfpey5BQ==",
+  "dgSpecHash": "VS/9v9ziX3QR/y2W2kd8+kBOV8IH3XgN0eMjT72ZfAafFJcM4QKVZX66zaYIv667rJphVF+i8wm+jcaWk83A8Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\Desktop\\Exam-Preparation-2-Resources\\02-Fruits-Resources\\TestApp.Tests\\TestApp.Tests.csproj",
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\Exam-Preparation-2-Resources\\Exam-Preparation-2-Resources\\02-Fruits-Resources\\TestApp.Tests\\TestApp.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",

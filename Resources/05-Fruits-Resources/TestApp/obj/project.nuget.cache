@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Gs197eiRxYmuTO+Ev9GH76uX7IdTXCjn8z6Z4LOWVUy7GZ+CsgYD0PqVhjIRPE3ejA1Ic2CtgcMbs6RoRNHLaA==",
+  "dgSpecHash": "0Eyq8rFsZgjztk7loekNYmXz2f4o6f4fkWnSLZS8AH7u5+5wQMVzNx4kd49IBBcW7L6LKxYtuoNoKjZZv9niIg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\Desktop\\Exam-Preparation-2-Resources\\02-Fruits-Resources\\TestApp\\TestApp.csproj",
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\Exam-Preparation-2-Resources\\Exam-Preparation-2-Resources\\02-Fruits-Resources\\TestApp\\TestApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",

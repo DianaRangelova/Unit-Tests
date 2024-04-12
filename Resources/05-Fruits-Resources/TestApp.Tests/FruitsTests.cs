@@ -85,7 +85,12 @@ public class FruitsTests
     public void Test_GetFruitQuantity_NullFruitName_ReturnsZero()
     {
         // Arrange
-        Dictionary<string, int> fruitsDictionary = new();
+        Dictionary<string, int> fruitsDictionary = new()
+        {
+            { "apple", 10 },
+            { "kiwi", 2 },
+            { "pear", 5 },
+        };
 
         string expectedFruit = null;
         int expected = 0;

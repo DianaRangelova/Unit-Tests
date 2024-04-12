@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\Desktop\\Exam-Preparation-2-Resources\\02-Fruits-Resources\\TestApp\\TestApp.csproj": {}
+    "C:\\Users\\PC\\Desktop\\Exam-Preparation-2-Resources\\Exam-Preparation-2-Resources\\02-Fruits-Resources\\TestApp\\TestApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\Desktop\\Exam-Preparation-2-Resources\\02-Fruits-Resources\\TestApp\\TestApp.csproj": {
+    "C:\\Users\\PC\\Desktop\\Exam-Preparation-2-Resources\\Exam-Preparation-2-Resources\\02-Fruits-Resources\\TestApp\\TestApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Desktop\\Exam-Preparation-2-Resources\\02-Fruits-Resources\\TestApp\\TestApp.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Desktop\\Exam-Preparation-2-Resources\\Exam-Preparation-2-Resources\\02-Fruits-Resources\\TestApp\\TestApp.csproj",
         "projectName": "TestApp",
-        "projectPath": "C:\\Users\\PC\\Desktop\\Exam-Preparation-2-Resources\\02-Fruits-Resources\\TestApp\\TestApp.csproj",
+        "projectPath": "C:\\Users\\PC\\Desktop\\Exam-Preparation-2-Resources\\Exam-Preparation-2-Resources\\02-Fruits-Resources\\TestApp\\TestApp.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Desktop\\Exam-Preparation-2-Resources\\02-Fruits-Resources\\TestApp\\obj\\",
+        "outputPath": "C:\\Users\\PC\\Desktop\\Exam-Preparation-2-Resources\\Exam-Preparation-2-Resources\\02-Fruits-Resources\\TestApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
