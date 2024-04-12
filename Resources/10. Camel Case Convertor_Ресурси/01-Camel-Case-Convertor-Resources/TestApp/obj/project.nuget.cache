@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zhkm6Xjnsb8Gdo5+fOU12DSdiaFfw2prdn807WBXhZMX6lMUj6CDEV+zTk2esWug/quwFZcmwEW6ypX8KrCl6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\QA Fundamentals\\Programming Advanced for QA\\19. Exam Preparation 4\\01. Camel Case Convertor_Ресурси\\01-Camel-Case-Convertor-Resources\\TestApp\\TestApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

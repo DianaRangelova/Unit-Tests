@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "v+LS4rwPOJpZ56jhmlinikJoMIqffIo/XnTgMOPyhe1H8GxJ3o8DGIV4N4ggG0GaLQVeA4x14bdvdjLZBlMhfQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\QA Fundamentals\\Programming Advanced for QA\\19. Exam Preparation 4\\02. Number Frequency_Ресурси\\DictionaryResources\\TestApp\\TestApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
