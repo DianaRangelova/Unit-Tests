@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\QA Fundamentals\\Programming Advanced for QA\\20. Exam\\StringProblems-Skeleton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{932D8F5E-3A10-4172-8448-426B6F52347A}|TestApp.Tests\\TestApp.Tests.csproj|c:\\users\\pc\\desktop\\qa fundamentals\\programming advanced for qa\\20. exam\\stringproblems-skeleton\\testapp.tests\\stringmodifiertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{932D8F5E-3A10-4172-8448-426B6F52347A}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\stringmodifiertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94635F62-C64B-43D6-B268-E6B38B1CE0A4}|TestApp\\TestApp.csproj|c:\\users\\pc\\desktop\\qa fundamentals\\programming advanced for qa\\20. exam\\stringproblems-skeleton\\testapp\\stringmodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94635F62-C64B-43D6-B268-E6B38B1CE0A4}|TestApp\\TestApp.csproj|solutionrelative:testapp\\stringmodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StringModifierTests.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\QA Fundamentals\\Programming Advanced for QA\\20. Exam\\StringProblems-Skeleton\\TestApp.Tests\\StringModifierTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\StringModifierTests.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\QA Fundamentals\\Programming Advanced for QA\\20. Exam\\StringProblems-Skeleton\\TestApp.Tests\\StringModifierTests.cs",
+              "RelativeToolTip": "TestApp.Tests\\StringModifierTests.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAADUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T06:08:25.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StringModifier.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\QA Fundamentals\\Programming Advanced for QA\\20. Exam\\StringProblems-Skeleton\\TestApp\\StringModifier.cs",
+              "RelativeDocumentMoniker": "TestApp\\StringModifier.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\QA Fundamentals\\Programming Advanced for QA\\20. Exam\\StringProblems-Skeleton\\TestApp\\StringModifier.cs",
+              "RelativeToolTip": "TestApp\\StringModifier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T06:08:19.155Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

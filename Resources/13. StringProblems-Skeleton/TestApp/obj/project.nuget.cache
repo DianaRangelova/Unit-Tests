@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QsKl8RPk93WnmQNUgthzL0ZooW2jL91u1yLlAUjgZSV8RpV8kBdGY9vhqoicBVBraySh+1PKAPzSc6r1a1UnGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\QA Fundamentals\\Programming Advanced for QA\\20. Exam\\StringProblems-Skeleton\\TestApp\\TestApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
